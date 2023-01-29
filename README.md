@@ -5,3 +5,4 @@ Open-Source-Projekte:
 - DarkIServ (archiviert)
 - PyGameLauncher (Schulprojekt)
 - IServ Klausuren- und Aufgabenscraper
+- Untis HTML-VPlan-Scraper
