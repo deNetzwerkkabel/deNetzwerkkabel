@@ -1,8 +1,4 @@
-Gründer des Unternehmens MRTNSoft.
-Eigene App im App-Store: https://apps.apple.com/de/app/schulplaner-f%C3%BCr-iserv/id1591447890
+- 19 years old
+- dual student in computer science
+- my own app: [Marios Eierzähler](https://apple.co/4oMmyD3)
 
-Open-Source-Projekte:
-- DarkIServ (archiviert)
-- PyGameLauncher (Schulprojekt)
-- IServ Klausuren- und Aufgabenscraper
-- Untis HTML-VPlan-Scraper
